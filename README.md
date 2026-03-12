@@ -1,4 +1,8 @@
 My GitHub Profile
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;Machine+Learning+Engineer;Data+Analyst;Python+Developer;SQL+Developer;Power+BI+Developer&center=true&width=500&height=50">
+</p>
+
 <h1 align="center">Hi 👋, I'm Manikanta Reddy</h1>
 <h3 align="center">Data Scientist | ML Engineer | Data Analyst | Python Developer</h3>
 
@@ -49,7 +53,12 @@ Visualization
 Databases
 - MySQL
 - My SQL Workbench
+---
+### 🧠 Technologies
 
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,sklearn,git,vscode"/>
+</p>
 ---
 
 ### 📂 Projects
@@ -60,6 +69,11 @@ Smart AI Fish Resource Identification System
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manikandareddy2004&show_icons=true&theme=radical)
+
+---
+### 📊 Activity Graph
+
+![Manikanta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Manikandareddy2004&theme=react-dark)
 
 ---
 
@@ -83,3 +97,7 @@ Smart AI Fish Resource Identification System
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Manikandareddy2004)
+
+### 🐍 Contribution Snake
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
